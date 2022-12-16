@@ -1,0 +1,120 @@
+{
+  "semantic": {
+    "color": {
+      "icon": {
+        "default": {
+          "value": "{semantic.color.ui.primary.default}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{semantic.color.ui.primary.muted}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{semantic.color.ui.primary.subtle}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{semantic.color.ui.primary.disabled}",
+          "type": "color"
+        },
+        "brandPrimary": {
+          "value": "{semantic.color.action.brand.primary.default}",
+          "type": "color"
+        },
+        "onBrandPrimary": {
+          "value": "{semantic.color.action.brand.primary.onPrimary}",
+          "type": "color"
+        },
+        "brandSecondary": {
+          "value": "{semantic.color.ui.brand.secondary}",
+          "type": "color"
+        },
+        "onBrandSecondary": {
+          "value": "{semantic.color.action.brand.secondary.onSecondary}",
+          "type": "color"
+        },
+        "inverse": {
+          "value": "{semantic.color.ui.inverse.default}",
+          "type": "color"
+        },
+        "inverseSecondary": {
+          "value": "{semantic.color.ui.inverse.muted}",
+          "type": "color"
+        },
+        "inverseTertiary": {
+          "value": "{semantic.color.ui.inverse.subtle}",
+          "type": "color"
+        },
+        "destructive": {
+          "value": "{semantic.color.action.destructive.default}",
+          "type": "color"
+        },
+        "destructiveTag": {
+          "value": "{semantic.color.action.destructive.onDeprecated}",
+          "type": "color"
+        },
+        "onDestructive": {
+          "value": "{semantic.color.action.destructive.onDestructive}",
+          "type": "color"
+        },
+        "info": {
+          "value": "{semantic.color.action.info.default}",
+          "type": "color"
+        },
+        "infoTag": {
+          "value": "{semantic.color.action.info.onDeprecated}",
+          "type": "color"
+        },
+        "onInfo": {
+          "value": "{semantic.color.action.info.onInfo}",
+          "type": "color"
+        },
+        "warning": {
+          "value": "{semantic.color.action.warning.default}",
+          "type": "color"
+        },
+        "warningTag": {
+          "value": "{semantic.color.action.warning.onWarning}",
+          "type": "color"
+        },
+        "onWarning": {
+          "value": "{semantic.color.action.warning.onWarning}",
+          "type": "color"
+        },
+        "success": {
+          "value": "{semantic.color.action.success.default}",
+          "type": "color"
+        },
+        "successTag": {
+          "value": "{semantic.color.action.success.onDeprecated}",
+          "type": "color"
+        },
+        "onSuccess": {
+          "value": "{semantic.color.action.success.onSuccess}",
+          "type": "color"
+        },
+        "loadingDefault": {
+          "value": "{semantic.color.ui.loading.default}",
+          "type": "color"
+        },
+        "loadingSecondary": {
+          "value": "{semantic.color.ui.loading.muted}",
+          "type": "color"
+        },
+        "black": {
+          "value": "{semantic.color.ui.generic.black}",
+          "type": "color"
+        },
+        "white": {
+          "value": "{semantic.color.ui.generic.white}",
+          "type": "color"
+        },
+        "placeholder": {
+          "value": "{semantic.color.ui.primary.subtle}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

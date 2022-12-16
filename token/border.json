@@ -1,0 +1,80 @@
+{
+  "semantic": {
+    "color": {
+      "border": {
+        "default": {
+          "value": "{semantic.color.background.primary.active}",
+          "type": "color"
+        },
+        "emphasis": {
+          "value": "{semantic.color.ui.inverse.muted}",
+          "type": "color"
+        },
+        "contrast": {
+          "value": "{semantic.color.ui.primary.default}",
+          "type": "color"
+        },
+        "brandPrimary": {
+          "value": "{semantic.color.action.brand.primary.default}",
+          "type": "color"
+        },
+        "brandPrimaryDeprecated": {
+          "value": "{semantic.color.action.brand.primary.deprecated}",
+          "type": "color"
+        },
+        "inverseDefault": {
+          "value": "{semantic.color.ui.inverse.default}",
+          "type": "color"
+        },
+        "inverseSecondary": {
+          "value": "{semantic.color.ui.inverse.muted}",
+          "type": "color"
+        },
+        "inverseTertiary": {
+          "value": "{semantic.color.ui.inverse.subtle}",
+          "type": "color"
+        },
+        "destructive": {
+          "value": "{semantic.color.action.destructive.default}",
+          "type": "color"
+        },
+        "figma": {
+          "value": "{system.color.purple.1400}",
+          "type": "color"
+        },
+        "success": {
+          "value": "{semantic.color.action.success.default}",
+          "type": "color"
+        },
+        "successDeprecated": {
+          "value": "{semantic.color.action.success.deprecated}",
+          "type": "color"
+        },
+        "info": {
+          "value": "{semantic.color.action.info.default}",
+          "type": "color"
+        },
+        "infoDeprecated": {
+          "value": "{semantic.color.action.info.deprecated}",
+          "type": "color"
+        },
+        "warning": {
+          "value": "{semantic.color.action.warning.default}",
+          "type": "color"
+        },
+        "warningDeprecated": {
+          "value": "{semantic.color.action.warning.deprecated}",
+          "type": "color"
+        },
+        "brandSecondary": {
+          "value": "{semantic.color.action.brand.secondary.default}",
+          "type": "color"
+        },
+        "brandSecondaryDeprecated": {
+          "value": "{semantic.color.action.brand.secondary.deprecated}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

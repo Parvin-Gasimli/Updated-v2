@@ -1,0 +1,44 @@
+{
+  "semantic": {
+    "color": {
+      "focus": {
+        "default": {
+          "value": "{semantic.color.action.info.default}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "rgba({semantic.color.action.info.default},0.7)",
+          "type": "color"
+        },
+        "contrast": {
+          "value": "{semantic.color.ui.primary.default}",
+          "type": "color"
+        },
+        "inverseDefault": {
+          "value": "{semantic.color.ui.inverse.default}",
+          "type": "color"
+        },
+        "inverseSubtle": {
+          "value": "{semantic.color.ui.inverse.muted}",
+          "type": "color"
+        },
+        "brandPrimary": {
+          "value": "{semantic.color.ui.brand.primary}",
+          "type": "color"
+        },
+        "brandSecondary": {
+          "value": "{semantic.color.ui.brand.secondary}",
+          "type": "color"
+        },
+        "black": {
+          "value": "{semantic.color.ui.generic.black}",
+          "type": "color"
+        },
+        "white": {
+          "value": "{semantic.color.ui.generic.white}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "tokenSetOrder": [
+    "color",
+    "semantic colors",
+    "text",
+    "icon",
+    "border",
+    "focus",
+    "dark"
+  ]
+}
